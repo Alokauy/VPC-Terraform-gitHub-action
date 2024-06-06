@@ -2,6 +2,8 @@ Create and manage infrastructure using Terraform and automate the deployment pro
 Project Flow
 
 Introduction
+![267309862-0e09102c-2949-4576-be43-39900a2c1a95](https://github.com/Alokauy/vpc-Terraform-gitHub-action/assets/161308664/3d1fecac-b5d6-42be-bd9c-0923bc8ca304)
+
 This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions.
 
 Terraform is an open-source infrastructure as code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language.
