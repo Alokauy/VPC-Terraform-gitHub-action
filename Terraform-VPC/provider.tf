@@ -7,12 +7,12 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "aloka-yalawatti"
+    bucket = "aloka-yalawatti23"
     key    = "dev/terraform.tfstate"
-    region = "us-east-1"
+    region = "ap-south-1"
   }
 }
 
 provider "aws" {
-  region = "us-east-1"
+  region = "ap-south-1"
 }
